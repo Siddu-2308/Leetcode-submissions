@@ -20,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0118-pascals-triangle) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
