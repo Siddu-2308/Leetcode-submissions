@@ -2,9 +2,10 @@ class Solution {
 public:
     vector<vector<int>> generate(int numRows) {
         vector<vector<int>> res;
-        if (numRows == 0) return res;
-        res.push_back({1});
-
+        //if (numRows == 0) return res;
+        //base case
+        res.push_back({1});      //row 1 setup
+        //from row2 onwards
         for(int row=2;row<=numRows;row++){
             vector<int> temp;
             temp.push_back(1);
