@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0118-pascals-triangle) |
 | [0485-max-consecutive-ones](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0724-find-pivot-index) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0680-valid-palindrome-ii) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
