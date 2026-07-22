@@ -16,12 +16,12 @@ public:
             s--;
         }
 
-        //if(i==0){
+        if(i==-1){
             while(j>=0){
                 nums1[s]=nums2[j];
                 s--;
                 j--;
             }
-        //}
+        }
     }
 };
