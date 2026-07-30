@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0202-happy-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Prefix Sum
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0876-middle-of-the-linked-list) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
