@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0680-valid-palindrome-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,5 +73,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
