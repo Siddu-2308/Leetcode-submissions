@@ -7,10 +7,10 @@ public:
         //coding
         int i=0;
         int j=0;
-        int match=0;;
+        //int match=0;; as j itself is match
         while(i<slen && j<tlen){
             if(t[j]==s[i]){
-                match++;
+               // match++;
                 j++;
                 i++;
             }
@@ -18,7 +18,7 @@ public:
                 i++;
             }
         }
-        return tlen-match;
+        return tlen-j;
         
     }
 };
