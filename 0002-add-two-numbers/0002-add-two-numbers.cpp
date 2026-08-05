@@ -14,7 +14,7 @@ public:
         ListNode * head1=l1;
         ListNode * head2=l2;
         ListNode dummy(0);
-        ListNode * res=&dummy;
+        ListNode * curr=&dummy;
         int carry =0;
         while(l1 || l2 || carry){
             int sum=carry;
@@ -28,8 +28,8 @@ public:
             }
             carry = (sum > 9) ? 1 : 0;//or carry =sum%10
             sum=sum%10;
-            res->next=new ListNode(sum);
-            res=res->next;
+            curr->next=new ListNode(sum);
+            curr=curr->next;
         
         }
         return dummy.next;
