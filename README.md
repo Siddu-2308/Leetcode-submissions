@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Siddu-2308/Leetcode-submissions/tree/master/0876-middle-of-the-linked-list) |
