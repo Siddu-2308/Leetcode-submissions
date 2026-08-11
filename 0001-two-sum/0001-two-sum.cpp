@@ -6,7 +6,7 @@ public:
         for (int i = 0; i < nums.size(); i++) {
             int complement = target - nums[i];
             
-            if (mp.count(complement)) {
+            if (mp.find(complement)!=mp.end()) {
                 return {mp[complement], i};
             }
             
